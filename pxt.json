@@ -1,5 +1,6 @@
 {
     "name": "Catch the Snowflakes",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*",
